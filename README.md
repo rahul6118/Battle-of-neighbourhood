@@ -1,5 +1,5 @@
-# notebooks
-The Battle of Neighbourhoods
+# The Battle of Neighbourhoods
+
 Introduction
 New Delhi is the capital city of India. It is a part of the city of Delhi’s 11 districts. The city itself has a population of 257,803. However, the much larger metro area has a population that exceeds 26 million.
 
